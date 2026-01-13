@@ -9,8 +9,20 @@ using Templetotemo101Saleh.ViewModels.ProductViewModels;
 namespace Templetotemo101Saleh.Areas.Admin.Controllers;
 [Area("Admin")]
 
-public class ProductController(AppDbContext _context,IWebHostEnvironment _environment) : Controller
+public class ProductController : Controller
 {
+    private readonly AppDbContext _context;
+    private readonly IWebHostEnvironment _environment;
+    private readonly string _folderPath;
+
+
+    public ProductController(AppDbContext context, IWebHostEnvironment environment)
+    {
+        _context = context;
+        _environment = environment;
+        _folderPath = Path.Combine(_environment.WebRootPath, "assets", "images");
+    }
+
     public async Task<IActionResult> Index()
     {
         var products = await _context.Products.Select(x => new ProductGetVM()
@@ -55,16 +67,16 @@ public class ProductController(AppDbContext _context,IWebHostEnvironment _enviro
             ModelState.AddModelError("Image","Image's maximun size must be 2 mb");
             return View(vm);
 }
-        if (vm.Image.ContentType.Contains("image"))
+        if (!vm.Image.ContentType.Contains("image"))
         {
             ModelState.AddModelError("Image","You can upload file only image format");
 
             return View(vm);
 }
         string uniqueFileName = Guid.NewGuid().ToString() + vm.Image.FileName;
-        string folderPath = Path.Combine(_environment.WebRootPath, "assets", "images");
+        
 
-        string path = Path.Combine(folderPath, uniqueFileName);
+        string path = Path.Combine(_folderPath, uniqueFileName);
 
         using FileStream stream = new(path, FileMode.Create);
 
@@ -84,6 +96,30 @@ public class ProductController(AppDbContext _context,IWebHostEnvironment _enviro
 
         return RedirectToAction(nameof(Index));
     }
+   
+    public async Task<IActionResult> Delete(int id)
+    {
+        var product=await _context.Products.FindAsync(id);
+
+        if(product is null )
+        {
+            return NotFound();
+        }
+        _context.Products.Remove(product);
+
+        await _context.SaveChangesAsync();
+
+
+        string deleteImagePath = Path.Combine(_folderPath, product.ImagePath);
+
+  if( System.IO.File.Exists(deleteImagePath))
+        System.IO.File.Delete(deleteImagePath);
+
+  return RedirectToAction(nameof(Index));
+    }
+
+    
+
     private async Task _sendCategoriesWithBag()
     {
         var categories = await _context.Categories.Select(c => new SelectListItem()

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Templetotemo101Saleh")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31b0ebf549618727d6538493afdaf3f201b4879e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+608cb140177803a13de9115d4690d2cf40dd3f71")]
 [assembly: System.Reflection.AssemblyProductAttribute("Templetotemo101Saleh")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Templetotemo101Saleh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

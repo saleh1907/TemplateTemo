@@ -878,6 +878,7 @@ wwwroot\assets\fonts\slick.eot
 wwwroot\assets\fonts\slick.svg
 wwwroot\assets\fonts\slick.ttf
 wwwroot\assets\fonts\slick.woff
+wwwroot\assets\images\8c45770a-3650-40ba-b3de-b9eea301362eMAA.jpeg
 wwwroot\assets\images\about-heading.jpg
 wwwroot\assets\images\client-01.png
 wwwroot\assets\images\contact-heading.jpg
