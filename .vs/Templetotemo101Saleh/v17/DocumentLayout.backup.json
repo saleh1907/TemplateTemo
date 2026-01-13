@@ -1,61 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\",
+  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\templetotemo101saleh\\templetotemo101saleh\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\viewmodels\\productviewmodels\\productgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|c:\\users\\student\\source\\repos\\templatetemosaleh1\\templetotemo101saleh\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{409A43F0-79EC-4BAD-8F9F-3E6654805E40}|Templetotemo101Saleh\\Templetotemo101Saleh.csproj|solutionrelative:templetotemo101saleh\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -66,17 +74,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFQBAACApcPXjwogwF4BAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAFQBAACApcPXjwogwGMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-13T00:42:28.771Z",
               "IsPinned": true,
@@ -85,157 +93,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Templetotemo101Saleh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T02:37:31.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Templetotemo101Saleh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T02:19:15.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAAtwDMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T02:12:55.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T01:57:07.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
-              "RelativeToolTip": "Templetotemo101Saleh\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T01:52:49.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Templetotemo101Saleh\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T01:48:47.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Configurations\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Configurations\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Configurations\\ProductConfiguration.cs",
-              "RelativeToolTip": "Templetotemo101Saleh\\Configurations\\ProductConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T01:23:26.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Models\\Category.cs",
-              "RelativeToolTip": "Templetotemo101Saleh\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T01:22:11.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Models\\Product.cs",
-              "RelativeToolTip": "Templetotemo101Saleh\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T01:17:25.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAOkCAAAAAAAAAAAIwPwCAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T00:41:51.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Templetotemo101Saleh\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAKwAAAAAAAAAAAAkwMgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T00:23:03.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Templetotemo101Saleh\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T00:22:24.797Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\appsettings.Development.json",
+              "RelativeToolTip": "Templetotemo101Saleh\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-13T08:35:24.825Z",
               "EditorCaption": ""
             },
             {
@@ -244,16 +109,175 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Templetotemo101Saleh\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:48:47.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwC4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T02:12:55.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\appsettings.json",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\appsettings.json",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\appsettings.json",
+              "RelativeToolTip": "Templetotemo101Saleh\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-13T08:35:22.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Templetotemo101Saleh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T02:19:15.914Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T01:57:07.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
+              "RelativeToolTip": "Templetotemo101Saleh\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:52:49.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Templetotemo101Saleh\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:23:26.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Models\\Category.cs",
+              "RelativeToolTip": "Templetotemo101Saleh\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:22:11.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Models\\Product.cs",
+              "RelativeToolTip": "Templetotemo101Saleh\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:17:25.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Program.cs",
               "RelativeDocumentMoniker": "Templetotemo101Saleh\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\Templetotemo101Saleh\\Templetotemo101Saleh\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Program.cs",
               "RelativeToolTip": "Templetotemo101Saleh\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T00:19:45.043Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Templetotemo101Saleh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T02:37:31.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Templetotemo101Saleh\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAOkCAAAAAAAAAAAIwPwCAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T00:41:51.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Templetotemo101Saleh\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAkwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T00:23:03.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Templetotemo101Saleh\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\TemplateTemoSaleh1\\Templetotemo101Saleh\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Templetotemo101Saleh\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T00:22:24.797Z"
             }
           ]
         }
