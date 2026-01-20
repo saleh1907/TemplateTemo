@@ -1,5 +1,7 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Templetotemo101Saleh.Context;
+using Templetotemo101Saleh.Models;
 
 namespace Templetotemo101Saleh
 {
@@ -16,6 +18,10 @@ namespace Templetotemo101Saleh
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
             });
+            builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
+            {
+
+            }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
             var app = builder.Build();
 

@@ -753,3 +753,4 @@ C:\Users\ACER\Source\Repos\TemplateTemo\Templetotemo101Saleh\obj\Debug\net8.0\re
 C:\Users\ACER\Source\Repos\TemplateTemo\Templetotemo101Saleh\obj\Debug\net8.0\Templetotemo101Saleh.pdb
 C:\Users\ACER\Source\Repos\TemplateTemo\Templetotemo101Saleh\obj\Debug\net8.0\Templetotemo101Saleh.genruntimeconfig.cache
 C:\Users\ACER\Source\Repos\TemplateTemo\Templetotemo101Saleh\obj\Debug\net8.0\ref\Templetotemo101Saleh.dll
+C:\Users\ACER\Source\Repos\TemplateTemo\Templetotemo101Saleh\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
